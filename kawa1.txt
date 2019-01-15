@@ -1,1 +1,1 @@
-{"isBiaoqian":"Y","useBe":"https://www.163.com"}
+{"isBiaoqian":"Y","useBe":"https://www.sina.com"}
